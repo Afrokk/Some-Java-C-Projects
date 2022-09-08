@@ -1,0 +1,12 @@
+January: $1.00
+March: $1.01
+February: $1.01
+April: $1.02
+May: $1.04
+June: $1.06
+July: $1.09
+November: $1.11
+December: $1.12
+August: $1.13
+October: $1.13
+September: $1.16
